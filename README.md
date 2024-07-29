@@ -1,7 +1,5 @@
 # Blood Bank Donation App
 
-![Blood Bank Donation](https://github.com/YaraGaber/BLOOD_BANK.APP/blob/main/BloodBank%20Donation/assets/icons/blood-drop.png?raw=true)
-
 ## Overview
 
 The Blood Bank Donation App is a mobile application designed to streamline the process of blood donation. The app helps users find nearby blood banks, manage their donation appointments, and stay informed about their donation history. Built with Flutter, it aims to make blood donation more accessible and efficient.
@@ -13,12 +11,6 @@ The Blood Bank Donation App is a mobile application designed to streamline the p
 - **Donation History:** Track your past donations and eligibility for future donations.
 - **Notifications:** Receive reminders for upcoming appointments and important updates.
 - **User Profiles:** Manage personal information and preferences.
-
-## Screenshots
-
-![Home Screen](https://github.com/YaraGaber/BLOOD_BANK.APP/blob/main/BloodBank%20Donation/assets/icons/home.png?raw=true)
-![Find Blood Banks](https://github.com/YaraGaber/BLOOD_BANK.APP/blob/main/BloodBank%20Donation/assets/icons/search.png?raw=true)
-![Appointment Booking](https://github.com/YaraGaber/BLOOD_BANK.APP/blob/main/BloodBank%20Donation/assets/icons/calendar.png?raw=true)
 
 ## Installation
 
