@@ -19,8 +19,8 @@ The Blood Bank Donation App is a mobile application designed to streamline the p
 ![image](https://github.com/YaraGaber/BLOOD_BANK.APP/blob/main/BloodBank%20Donation/images/WhatsApp%20Image%202024-09-11%20at%202.10.36%20PM.jpeg)
 ![image](https://github.com/YaraGaber/BLOOD_BANK.APP/blob/main/BloodBank%20Donation/images/WhatsApp%20Image%202024-09-11%20at%202.10.37%20PM.jpeg)
 ![image](https://github.com/YaraGaber/BLOOD_BANK.APP/blob/main/BloodBank%20Donation/images/WhatsApp%20Image%202024-09-11%20at%202.10.38%20PM.jpeg)
-![image](https://github.com/YaraGaber/BLOOD_BANK.APP/blob/main/BloodBank%20Donation/images/WhatsApp%20Image%202024-09-11%20at%202.10.33%20PM(1).jpeg)
-![image](https://github.com/YaraGaber/BLOOD_BANK.APP/blob/main/BloodBank%20Donation/images/WhatsApp%20Image%202024-09-11%20at%202.10.33%20PM(2).jpeg)
+![image](https://github.com/YaraGaber/BLOOD_BANK.APP/blob/main/BloodBank%20Donation/images/WhatsApp%20Image%202024-09-11%20at%202.10.38%20PM%20(1).jpeg)
+![image](https://github.com/YaraGaber/BLOOD_BANK.APP/blob/main/BloodBank%20Donation/images/WhatsApp%20Image%202024-09-11%20at%202.10.38%20PM%20(2).jpeg)
 
 
 ## Installation
